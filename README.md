@@ -37,11 +37,11 @@ Groq API
 
 ### 🚀 Featured Projects
 
--   **[MedRAG Insight](#)** --- AI-powered medical report analysis using
+-   **[MedRAG Insight](https://shitsukendu.github.io/MedRAG-Insight/)** --- AI-powered medical report analysis using
     RAG, FAISS, Streamlit and MedlinePlus knowledge.
--   **[NexusMind AI](#)** --- Multi-mode Generative AI assistant built
+-   **[NexusMind AI](https://shitsukendu.github.io/NexusMind-AI-Assistant/)** --- Multi-mode Generative AI assistant built
     with Python, Streamlit, Groq API and OpenAI SDK.
--   **[LegalRAG](#)** --- RAG-based legal document intelligence system
+-   **[LegalRAG](https://ai-legalrag-agcesnhzedqregpmlvtj8k.streamlit.app/)** --- RAG-based legal document intelligence system
     with semantic search, document retrieval and page-level citations.
 
 ### 📚 Currently Exploring
